@@ -45,8 +45,8 @@
 
     <EditText
         android:id="@+id/Personme"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="212dp"
+        android:layout_height="53dp"
         android:layout_marginTop="204dp"
         android:ems="10"
         android:hint="Name"
@@ -77,8 +77,8 @@
 
     <EditText
         android:id="@+id/PersonName2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="210dp"
+        android:layout_height="52dp"
         android:layout_marginTop="292dp"
         android:ems="10"
         android:hint="Enter"
